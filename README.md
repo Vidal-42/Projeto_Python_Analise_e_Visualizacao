@@ -41,12 +41,12 @@ Criação de um gráfico de barras destacando esses aplicativos, permitindo uma 
 #### Análise: 
 As categorias dos aplicativos foram analisadas a partir da frequência de cada uma no dataset.
 
-![etapa-03](../Evidencias/Desafio/cod_categoria_apps_frequencia.png)
+![etapa-03](Evidencias/cod_categoria_apps_frequencia.png)
 
 #### Visualização: 
 Um gráfico de pizza foi gerado para ilustrar a distribuição das categorias, destacando a a frequência de aparecimento de cada uma.
 
-![etapa-03](../Evidencias/Desafio/grafico_categoria_apps_frequencia.png)
+![etapa-03](Evidencias/grafico_categoria_apps_frequencia.png)
 
 ### 4. Identificação do App Mais Caro
 #### Análise: 
