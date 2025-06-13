@@ -30,7 +30,7 @@ Remoção de Duplicatas: Realizou-se a limpeza inicial dos dados, removendo toda
 #### Análise: 
 Identificação dos 5 aplicativos com o maior número de instalações no dataset.
 
-![etapa-01](../Evidencias/Desafio/cod_top5_apps.png)
+![etapa-01](Evidencias/cod_top5_apps.png)
 
 #### Visualização: 
 Criação de um gráfico de barras destacando esses aplicativos, permitindo uma visualização clara da popularidade relativa entre eles. Optei pelo gráfico de barras horizontal para uma melhor visualização dos nomes dos aplicativos, levando em consideração a extensão deles.
