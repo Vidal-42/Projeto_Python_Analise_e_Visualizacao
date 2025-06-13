@@ -54,7 +54,7 @@ O dataset foi filtrado para encontrar o aplicativo com o preço mais alto.
 #### Resultado: 
 Exibição do nome e o preço do aplicativo mais caro.
 
-![etapa-04](../Evidencias/Desafio/cod_categoria_apps_frequencia.png)
+![etapa-04](Evidencias/cod_app_mais_caro.png)
 
 ### 5. Contagem de Apps Classificados como "Mature 17+"
 #### Análise: 
