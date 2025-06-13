@@ -1,4 +1,4 @@
-# Desafio Python - Sprint 3
+# Desafio Python - Análise de Aplicativos da Playstore
 
 O projeto desenvolvido é focado em aplicar técnicas de análise e visualização de dados usando Python. O dataset utilizado, googleplaystore.csv, está disponibilizado na plataforma Kaggle e contém informações detalhadas sobre diversos aplicativos disponíveis na Google Play Store, incluindo número de instalações, categorias, classificações etárias, preços, e entre outros dados relevantes. O objetivo principal do projeto foi explorar e analisar o dataset para extrair insights valiosos, identificando tendências e padrões presentes nos dados, e apresentar esses resultados de forma visual com o auxílio de diferentes tipos gráficos. Para isso, foram utilizadas as bibliotecas Pandas, para manipulação e tratamento de dados, e Matplotlib, para construção de gráficos. Todas as atividades foram executadas com a extensão Jupyter no VS Code.
 O desenvolvimento do projeto seguiu 8 (oito) etapas principais, descritas a seguir:
