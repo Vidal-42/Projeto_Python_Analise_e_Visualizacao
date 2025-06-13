@@ -35,7 +35,7 @@ Identificação dos 5 aplicativos com o maior número de instalações no datase
 #### Visualização: 
 Criação de um gráfico de barras destacando esses aplicativos, permitindo uma visualização clara da popularidade relativa entre eles. Optei pelo gráfico de barras horizontal para uma melhor visualização dos nomes dos aplicativos, levando em consideração a extensão deles.
 
-![etapa-02](../Evidencias/Desafio/grafico_top5_apps.png)
+![etapa-02](Evidencias/grafico_top5_apps.png)
 
 ### 3. Gráfico de Pizza - Categorias de Apps
 #### Análise: 
