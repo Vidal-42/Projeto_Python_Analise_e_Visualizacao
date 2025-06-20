@@ -68,19 +68,19 @@ Os 10 aplicativos com o maior número de avaliações foram selecionados e orden
 #### Visualização: 
 Exibida uma lista detalhada desses aplicativos juntamente com o respectivo número de avaliações.
 
-![etapa-06](../Evidencias/Desafio/cod_top10_apps_num_review.png)
+![etapa-06](Evidencias/cod_top10_apps_num_review.png)
 
 ### 7. Top 5 Aplicativos por Rating (Classificação)
 #### Análise: 
 Identificação dos 5 aplicativos com as classificações (ratings) mais altas no dataset. Esse processo incluiu a ordenação dos dados com base na coluna de "Rating" e a extração do nome e quantidade de "estrelas" (Rating) para cada aplicativo.
 
-![etapa-07](../Evidencias/Desafio/cod_top5_aplicativos_por_rating.png)
+![etapa-07](Evidencias/cod_top5_aplicativos_por_rating.png)
 
 ### 7.1 Top 10 Aplicativos com Menor Número de Instalações
 #### Análise: 
 Os 10 aplicativos com o menor número de instalações foram selecionados e exibidos em formato de lista, contendo o nome de cada app e sua quantidade de instalações. Essa análise revelou quais aplicativos têm uma baixa taxa de popularidade.
 
-![etapa-07](../Evidencias/Desafio/cod_top10_aplicativos_menor_numero_instalacoes.png)
+![etapa-07](Evidencias/cod_top10_aplicativos_menor_numero_instalacoes.png)
 
 ### 8.Geração do Gráfico dos Top 5 Aplicativos por Rating (Classificação): 
 Um gráfico de linhas combinado com um gráfico de dispersão foi criado para ilustrar tanto a tendência geral quanto os valores individuais de classificação dos 5 aplicativos com melhores ratings. Isso permitiu uma visualização mais completa da avaliação média e das classificações específicas.
