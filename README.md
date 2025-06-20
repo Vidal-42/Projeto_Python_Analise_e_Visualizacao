@@ -60,7 +60,7 @@ Exibição do nome e o preço do aplicativo mais caro.
 #### Análise: 
 Contabilizou-se a quantidade de aplicativos classificados como "Mature 17+", fornecendo uma visão sobre o número de apps destinados ao público adulto.
 
-![etapa-05](../Evidencias/Desafio/cod_apps_17.png)
+![etapa-05](Evidencias/cod_classificaco_apps17.png)
 
 ### 6. Top 10 Apps por Número de Reviews
 #### Análise: 
