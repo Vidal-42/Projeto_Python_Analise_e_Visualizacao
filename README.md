@@ -74,7 +74,7 @@ Exibida uma lista detalhada desses aplicativos juntamente com o respectivo núme
 #### Análise: 
 Identificação dos 5 aplicativos com as classificações mais altas no dataset. Esse processo incluiu a ordenação dos dados com base na coluna de "Rating" e a extração do nome e quantidade de "estrelas" para cada aplicativo.
 
-![etapa-07](Evidencias/cod_top5_aplicativos_por_rating)
+![etapa-07](Evidencias/cod_top5_aplicativos_por_rating.png)
 
 ### 7.1 Top 10 Aplicativos com Menor Número de Instalações
 #### Análise: 
