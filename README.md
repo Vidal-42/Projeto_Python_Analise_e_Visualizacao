@@ -85,8 +85,8 @@ Os 10 aplicativos com o menor número de instalações foram selecionados e exib
 ### 8.Geração do Gráfico dos Top 5 Aplicativos por Rating (Classificação): 
 Um gráfico de linhas combinado com um gráfico de dispersão foi criado para ilustrar tanto a tendência geral quanto os valores individuais de classificação dos 5 aplicativos com melhores ratings. Isso permitiu uma visualização mais completa da avaliação média e das classificações específicas.
 
-![etapa-08](../Evidencias/Desafio/cod_grafico_top5_aplicativos_por_rating.png)
-![etapa-08](../Evidencias/Desafio/grafico_top5_aplicativos_por_rating.png)
+![etapa-08](Evidencias/cod_grafico_top5_aplicativos_por_rating.png)
+![etapa-08](Evidencias/grafico_top5_aplicativos_por_rating.png)
 
 ### 8.1.Geração do Gráfico Top 10 Aplicativos com Menor Número de Instalações: 
 Um gráfico de dispersão foi criado para visualizar as quantidades individuais de instalações dos aplicativos listados, permitindo uma análise clara das baixas taxas de popularidade desses apps dentro do conjunto de dados.
