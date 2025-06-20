@@ -70,7 +70,7 @@ Exibida uma lista detalhada desses aplicativos juntamente com o respectivo núme
 
 ![etapa-06](Evidencias/cod_top10_apps_num_review.png)
 
-### 7. Top 5 Aplicativos por Rating (Classificação)
+### 7. Top 5 Aplicativos por Rating (Avaliação)
 #### Análise: 
 Identificação dos 5 aplicativos com as classificações (ratings) mais altas no dataset. Esse processo incluiu a ordenação dos dados com base na coluna de "Rating" e a extração do nome e quantidade de "estrelas" (Rating) para cada aplicativo.
 
