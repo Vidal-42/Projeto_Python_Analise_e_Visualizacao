@@ -26,9 +26,9 @@ O desenvolvimento do projeto seguiu 8 (oito) etapas principais, descritas a segu
 Leitura do Dataset: O arquivo googleplaystore.csv foi carregado em um DataFrame do Pandas para facilitar o processamento e leitura dos dados.
 Remoção de Duplicatas: Realizou-se a limpeza inicial dos dados, removendo todas as linhas duplicadas para evitar a repetição de informações e garantir a integridade dos dados.
 
-### 2. Gráfico de Barras - Top 5 Apps por Número de Instalações
+### 2. Gráfico de Barras - Top 5 Apps por Número de Instalação
 #### Análise: 
-Identificação dos 5 aplicativos com o maior número de instalações no dataset.
+Identificação dos 5 aplicativos com o maior número de instalação no dataset.
 
 ![etapa-01](Evidencias/cod_top5_apps.png)
 
