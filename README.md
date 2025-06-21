@@ -91,7 +91,7 @@ Um gráfico de linhas combinado com um gráfico de dispersão foi criado para il
 ### 8.1.Geração do Gráfico Top 10 Aplicativos com Menor Número de Instalações: 
 Um gráfico de dispersão foi criado para visualizar as quantidades individuais de instalações dos aplicativos listados, permitindo uma análise clara das baixas taxas de popularidade desses apps dentro do conjunto de dados.
 
-![etapa-08](../Evidencias/Desafio/cod_grafico_top10_aplicativos_menor_numero_instalacoes.png)
-![etapa-08](../Evidencias/Desafio/grafico_top10_aplicativos_menor_numero_instalacoes.png)
+![etapa-08](Evidencias/Desafio/cod_grafico_top10_aplicativos_menor_numero_instalacoes.png)
+![etapa-08](Evidencias/Desafio/grafico_top10_aplicativos_menor_numero_instalacoes.png)
 
 
